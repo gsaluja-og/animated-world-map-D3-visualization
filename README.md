@@ -1,6 +1,5 @@
-# animated-world-map-D3-visualization
 Animated world map showing gradient flow lines from different countries. Created using D3.js
-## [See it in action here](https://observablehq.com/d/d8e7044432c31f42#chart)
+## See live interactive version &#8594; [here](https://observablehq.com/d/d8e7044432c31f42#chart)
 
 ![InternationalStudentMobilityUS](https://github.com/gsaluja-og/animated-world-map-D3-visualization/assets/39690454/55701164-6744-483a-906b-1254a62cdeed)
 
